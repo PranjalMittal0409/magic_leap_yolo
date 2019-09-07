@@ -34,6 +34,7 @@ For the application to work, you need the following:
 
 ## Demos
 ![Detections](https://github.com/PranjalMittal0409/magic_leap_yolo/blob/master/ml_photos/test_output.jpg)
+![Detections](https://github.com/PranjalMittal0409/magic_leap_yolo/blob/master/ml_photos/test_output2.jpg)
 
 ## Authors
 
