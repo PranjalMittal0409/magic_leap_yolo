@@ -32,6 +32,9 @@ For the application to work, you need the following:
 * [OpenCVForUnity](https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088) - The asset used to understand the code
 * [MagicLeapWithOpenCVForUnity](https://unitylist.com/p/jqz/Magic-Leap-With-Open-CV-For-Unity-Example) - The main asset whose OpenCVImageCaptureExample and DnnMLCameraPreviewExample scenes were used
 
+## Demos
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## Authors
 
 * **Pranjal Mittal** - [magic_leap_yolo](https://github.com/PranjalMittal0409/magic_leap_yolo/)
